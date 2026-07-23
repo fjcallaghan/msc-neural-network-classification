@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Local files not part of the repo
+*.zip
+*.pdf
+*.pt
+*.png
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
