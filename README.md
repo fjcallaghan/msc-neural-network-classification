@@ -18,6 +18,6 @@ The assignment was to design a synthetic image dataset from scratch and train ne
 
 ## Tools
 
-Python, PyTorch, NumPy, SciPy, Matplotlib — all in a single Jupyter notebook: [`FrederickCallaghan_notebook.ipynb`](FrederickCallaghan_notebook.ipynb)
+Python, PyTorch, NumPy, SciPy, Matplotlib — all in a single Jupyter notebook: [`msc-neural-network-classification.ipynb`](msc-neural-network-classification.ipynb)
 
 The notebook is saved with its outputs, so all plots and results render directly on GitHub without needing to re-run it.
